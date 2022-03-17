@@ -1,0 +1,17 @@
+[
+{
+  "modid": "kgo",
+  "name": "Kangaroo Client",
+  "description": "Based cheatering client for 1.8.9",
+  "version": "${0.0.1}",
+  "mcversion": "${MC_VERSION}",
+  "url": "https://discord.gg/dzK22ghT",
+  "updateUrl": "",
+  "authorList": ["Mythstik"],
+  "credits": "12",
+  "logoFile": "kc.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
+z
