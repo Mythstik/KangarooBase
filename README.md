@@ -3,7 +3,7 @@
 Based 1.8 - 1.12 forge client base.
 
 
-[logo](kc.png)
+![kangaroobase](kc.png "readmeimg").
 
 
 ---
