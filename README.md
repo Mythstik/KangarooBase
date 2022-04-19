@@ -1,6 +1,6 @@
 # KangarooBase
 ---
-Based 1.8 - 1.12 forge client base.
+Based 1.8 - 1.12* forge client base.
 
 
 ![kangaroobase](kc.png "readmeimg").
@@ -46,3 +46,7 @@ gradlew genIntellijRuns
 ---
 
 ## Run it as a client and your good to go.
+
+---
+
+# * with a few changes im sure you can figure it out yourself
